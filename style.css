@@ -46,7 +46,7 @@
 
 @media  screen and (max-width: 786px) {
   .team1 img{
-  	width: auto;
+  	width: 100%;
   }
   .about1 img{
   	width: 100%;
@@ -58,13 +58,30 @@
 }
 @media  screen and (max-width: 786px) {
   .pic img{
-  	width: auto;
+  	width: 100%;
   }
   
 }
-
-.text{
+.case{
+	text-transform: uppercase;
+}
+.footer1{
+	height: auto;
+}
+.icon{
+	font-size: 50px;
+	color: white;
+	margin: 10px;
+	padding: 5px 10px;
+}
+.copy {
+	color: blue;
+}
+.copy a{
+	color: white;
 	text-align: center;
 }
-
+.fa{
+	color: white;
+}
 
