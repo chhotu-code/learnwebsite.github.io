@@ -42,6 +42,15 @@
 .about1{
 	padding: 50px;
 	margin: 0px;
+	border-radius: 20px 20px 20px 20px;
+}
+.about1 img{
+
+	border-radius: 20px 20px 20px 20px;
+}
+.about2 img{
+
+	border-radius: 20px 20px 20px 20px;
 }
 
 @media  screen and (max-width: 786px) {
@@ -84,4 +93,28 @@
 .fa{
 	color: white;
 }
-
+.me{
+	text-shadow: 5px 5px lime;
+	padding: 50px;
+}
+.me1{
+	text-shadow: 5px 5px white;
+	
+}
+.team2{
+	background: radial-gradient(red,pink,lime,brown);
+}
+.Our{
+	text-shadow: 3px 3px blue;
+}
+.case1{
+	text-shadow: 5px 5px lime;
+	text-transform: uppercase;
+	padding: 20px;
+}
+.contact1{
+	background: linear-gradient(pink,brown,lime);
+}
+.container h1{
+	text-transform: uppercase;
+}
